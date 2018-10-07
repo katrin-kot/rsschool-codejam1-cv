@@ -126,3 +126,15 @@ section {
   font-size: 18px;
   padding-bottom: 24px;
 }
+.english {
+  padding-bottom: 20px;
+}
+.english p {
+  font-size: 18px;
+}
+footer {
+  background: #424242;
+  color: #ffffff;
+  padding: 20px 0px 20px 20px;
+  margin: 0;
+}
